@@ -1,0 +1,68 @@
+body {
+
+background-color:#bbf2f2;
+  font-family:fantasy;
+}
+
+p {
+  color: rgb(11, 11, 11);
+  font-size:19px;
+  text-align: center;
+ 
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size:50px;
+  
+  
+}
+
+h2 { background-color: azure;
+}
+
+img { 
+  border-radius: 20px;
+  border-style:ridge;
+  width= 50px;
+  justify-content:center;
+  margin-left: 90px;
+  border-color: rgb(18, 34, 143);
+  
+}
+
+.img { 
+  border-radius: 20px;
+  border-style:ridge;
+  float:left;width:115px;height:115px;"
+  border-color: rgb(18, 34, 143);
+ 
+}
+
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+.heading {
+
+  text-align:center;
+  border: solid 3px;
+  border-color: rgb(18, 34, 143);
+  border-radius: 10px;
+  color: rgb(18, 34, 143);
+  font-family: sans-serif;
+  background-color: #f5985b;
+  }
+
+.link {
+  
+  
+    color: #F58534;
+    font-size:20px;
+    text-align: center
+
+  }
